@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <body>
-  <img src="" alt="Girl in a jacket" width="500" height="600">
+  <img src="image-126774-1580352286.jpg
+ " alt="Girl in a jacket" width="500" height="600">
 
 </body>
