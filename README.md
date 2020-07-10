@@ -1,5 +1,6 @@
 
 <head>
+  hi
   <script data-ad-client="ca-pub-3156674226737893" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 ## Welcome to GitHub Pages
