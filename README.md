@@ -1,3 +1,7 @@
+
+<head>
+  <script data-ad-client="ca-pub-3156674226737893" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Dipanjan98/HI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -41,3 +45,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
  " alt="Girl in a jacket" width="500" height="600">
 
 </body>
+
+
